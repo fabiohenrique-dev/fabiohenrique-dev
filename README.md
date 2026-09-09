@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Fábio Henrique!
+# Olá, eu sou Fábio Henrique!👋
 
 ### 💻 Estudante de Ciência da Computação | 🚀 Desenvolvedor em formação
 
