@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fabiohenrique-dev/fabiohenrique-dev/main/banner.png" width="100%" alt="Banner" />
+  
+  # 💻 CIÊNCIA DA COMPUTAÇÃO
+  ### Código • Lógica • Inovação • Futuro
+
 </div>
 
 <br>
+
 # Olá, eu sou Fábio Henrique!👋
 
 ### 💻 Estudante de Ciência da Computação | 🚀 Desenvolvedor em formação
