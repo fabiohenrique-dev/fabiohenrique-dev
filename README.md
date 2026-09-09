@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ChatGPT Imagem 9 de set. de 2026, 17_15_54.png" width="100%">
+  <img src="banner.png" width="100%">
 </p>
 
 # Olá, eu sou Fábio Henrique!👋
