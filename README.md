@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" width="100%">
-</p>
-
 # Olá, eu sou Fábio Henrique!👋
 
 ### 💻 Estudante de Ciência da Computação | 🚀 Desenvolvedor em formação
