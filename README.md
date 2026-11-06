@@ -91,10 +91,6 @@ Repositório de projetos acadêmicos e pessoais, exercícios de programação e 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fabiohenrique-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiohenrique-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <br/>
 
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiohenrique-dev&theme=tokyonight&hide_border=true"/>
