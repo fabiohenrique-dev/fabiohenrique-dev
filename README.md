@@ -1,33 +1,31 @@
  <div align="center">
 
-# FÁBIO HENRIQUE
+# Fábio Henrique
 
-### COMPUTER SCIENCE STUDENT | SOFTWARE DEVELOPMENT
+### Ciência da Computação | Desenvolvimento de Software
 
-**Tecnologia · Desenvolvimento · Inovação**
+**Tecnologia, programação e inovação.**
 
-Explorando possibilidades através da programação e transformando conhecimento em projetos.
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-fabiohenrique--dev-161B22?style=for-the-badge&logo=github)](https://github.com/fabiohenrique-dev)
-[![UNIPÊ](https://img.shields.io/badge/UNIPÊ-Ciência_da_Computação-243B64?style=for-the-badge)](https://www.unipe.edu.br/)
+Construindo conhecimento, desenvolvendo habilidades e transformando ideias em projetos.
 
 </div>
 
 ---
 
-## 01 — PERFIL
+## SOBRE MIM
 
-Graduando em **Ciência da Computação pela UNIPÊ**, interessado no universo da tecnologia e no desenvolvimento de soluções computacionais.
+Sou graduando em **Ciência da Computação pela UNIPÊ**, com interesse em desenvolvimento de software, programação e Inteligência Artificial.
 
-Minha trajetória é guiada pela curiosidade, pelo aprendizado contínuo e pela busca por conhecimento em programação, desenvolvimento de software e Inteligência Artificial.
+Estou constantemente aprimorando meus conhecimentos, explorando novas tecnologias e buscando transformar o aprendizado em experiências práticas.
 
-Acredito na prática como parte fundamental da evolução: estudar, experimentar, desenvolver e aprimorar.
+- 🎓 Formação acadêmica em Ciência da Computação — UNIPÊ
+- 💻 Interesse em desenvolvimento de software
+- 🧠 Foco em programação e novas tecnologias
+- 🚀 Aprendizado contínuo e desenvolvimento de projetos
 
-## 02 — STACK TECNOLÓGICA
+## TECNOLOGIAS & FERRAMENTAS
 
-**Linguagens & Desenvolvimento**
+**Linguagens e desenvolvimento**
 
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -36,7 +34,7 @@ Acredito na prática como parte fundamental da evolução: estudar, experimentar
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-**Ferramentas & Ambiente de Desenvolvimento**
+**Ferramentas**
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -44,26 +42,17 @@ Acredito na prática como parte fundamental da evolução: estudar, experimentar
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-## 03 — FOCO ATUAL
+## FOCO ATUAL
 
-| Área | Direcionamento |
-|---|---|
-| Programação | Lógica, algoritmos e resolução de problemas |
-| Desenvolvimento Web | Estrutura, estilização e interatividade |
-| Computação | Fundamentos e construção de soluções |
-| Inteligência Artificial | Conhecimento e exploração da área |
+Aprimoramento dos fundamentos da programação, lógica computacional e desenvolvimento web, com dedicação à construção de projetos pessoais e acadêmicos.
 
-## 04 — GITHUB ANALYTICS
+## ESTATÍSTICAS DO GITHUB
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fabiohenrique-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fabiohenrique-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiohenrique-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiohenrique-dev&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiohenrique-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -71,10 +60,6 @@ Acredito na prática como parte fundamental da evolução: estudar, experimentar
 
 <div align="center">
 
-### CONSTANT DEVELOPMENT
-
-*Learning today. Building tomorrow.*
-
-**Fábio Henrique · GitHub Portfolio**
+**"Conhecimento se constrói com dedicação, prática e evolução constante."**
 
 </div>
